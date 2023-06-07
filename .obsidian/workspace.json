@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "82544f5000f325d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "060f0a466425afb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f4f82a5e046482c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Answer Lines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f12a2a259a0fac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "628b63ed4c763251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "986935ef585f5bbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "846a05dc0f7539cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Diel",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7079f7ef6bbd3991",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b4f178b789df72f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "5f10cee79d0aa831",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e19f57387cba423",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2132a2addd3938bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Answer Lines.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e9a0546b55e0f544",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Answer Lines.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "828ebe8aacb87f30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a67649889be43c6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Answer Lines.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "5f4f82a5e046482c",
+  "lastOpenFiles": [
+    "attachments/Pasted image 20230227001031.png",
+    "Biology/README.md",
+    "Biology/synovial joint.md",
+    "Physics/semi-empirical mass formula.md",
+    "Biology/reading frame.md",
+    "Physics/quark-gluon plasma.md",
+    "Physics/quark.md",
+    "Biology/prokaryote.md",
+    "Chemistry/PFAS.md",
+    "Answer Lines.md",
+    "attachments/Pasted image 20230413115650.png",
+    "Biology/p53 protein.md",
+    "Physics/neutron star.md",
+    "Biology/mitochondrial DNA.md",
+    "Physics/liquid-drop model.md",
+    "Biology/late response gene.md",
+    "Chemistry/Langmuir adsorption model.md",
+    "Other/Irving Langmuir.md",
+    "Biology/immediate early gene.md",
+    "Biology/human papillomavirus.md",
+    "Biology/hematopoiesis.md",
+    "Other/Hans Albrecht Bethe.md",
+    "Physics/gravitational wave.md",
+    "Physics/fusion.md",
+    "Biology/epigenetics.md",
+    "Chemistry/electroplating.md",
+    "Biology/elbow.md",
+    "attachments/Pasted image 20230603163250.png",
+    "attachments/Pasted image 20230603161645.png",
+    "attachments/Pasted image 20230603160042.png",
+    "attachments/Pasted image 20230603154536.png",
+    "attachments/Pasted image 20230603151835.png",
+    "attachments/Pasted image 20230603151721.png",
+    "attachments/Pasted image 20230603151437.png",
+    "attachments/Pasted image 20230602210245.png",
+    "attachments/Pasted image 20230416140652.png",
+    "preamble~.sty",
+    "Untitled.canvas",
+    "Biology/$",
+    "Untitled 1.canvas",
+    "attachments",
+    "snippets",
+    "preamble.sty",
+    "Other",
+    "Chemistry",
+    "Physics",
+    "Biology",
+    "templates"
+  ]
+}

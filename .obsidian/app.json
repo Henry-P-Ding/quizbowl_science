@@ -1,0 +1,11 @@
+{
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "attachements",
+  "alwaysUpdateLinks": true
+}

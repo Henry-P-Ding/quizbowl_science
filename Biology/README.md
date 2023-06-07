@@ -1,0 +1,1 @@
+This Obsidian vault contains ThisIsDenry's high school quiz bowl science notes. Most clues are at the 4-5 difficulty level.

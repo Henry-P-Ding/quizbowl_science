@@ -1,0 +1,9 @@
+img{
+    background: white;
+}
+
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

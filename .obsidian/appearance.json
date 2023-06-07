@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "image_background"
+  ],
+  "cssTheme": "Minimal"
+}
